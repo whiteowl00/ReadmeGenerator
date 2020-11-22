@@ -14,13 +14,13 @@ tt
 ## Installation:
 tt
 ## Usage:
-tt
+gg
 ## Contributors:
-tt
+gg
 ## Tests:
-tt
+gg
 ## Questions:
-If you have any question, Please contact me: tt@tt.com
+If you have any question, Please contact me: gg
 ## Licenses:
-Apache [![Apache licenses](https://img.shields.io/badge/license-Apache-blue.svg)]
+Apache2![Apache2 licenses](https://img.shields.io/badge/license-Apache2-blue.svg)
 
