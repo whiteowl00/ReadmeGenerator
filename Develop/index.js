@@ -45,10 +45,10 @@ const questions = [
         name:"licenses",
         message:"Please select one license for this project",
         choices:[
-            "Apache![Apache licenses](https://img.shields.io/badge/license-Apache-blue.svg)",
-            "MIT![MIT licenses](https://img.shields.io/badge/license-MIT-green.svg)",
-            "GPL![GPL licenses](https://img.shields.io/badge/license-GPL-blue.svg)",
-            "Apache2![Apache2 licenses](https://img.shields.io/badge/license-Apache2-blue.svg)"
+            "Apache ![Apache licenses](https://img.shields.io/badge/license-Apache-blue.svg)",
+            "MIT ![MIT licenses](https://img.shields.io/badge/license-MIT-green.svg)",
+            "GPL ![GPL licenses](https://img.shields.io/badge/license-GPL-blue.svg)",
+            "Apache2 ![Apache2 licenses](https://img.shields.io/badge/license-Apache2-blue.svg)"
         ]
     }
 
