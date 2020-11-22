@@ -45,30 +45,14 @@ const questions = [
         name:"licenses",
         message:"Please select one license for this project",
         choices:[
-            "Apache",
-            "MIT",
-            "GPL",
-            "Apache 2"
+            "Apache [![Apache licenses](https://img.shields.io/badge/license-Apache-blue.svg)]",
+            "MIT [![MIT licenses](https://img.shields.io/badge/license-MIT-green.svg)]",
+            "GPL [![GPL licenses](https://img.shields.io/badge/license-GPL-blue.svg)]",
+            "Apache2 [![Apache2 licenses](https://img.shields.io/badge/license-Apache2-blue.svg)]"
         ]
-    },
-
-];
-
-
-let badgeLicense = "license"
-function createBadge() {
-    if( badgeLicense == 'MIT') {
-        projectInfo.license = `![MIT License](https://img.shields.io/badge/license-MIT-green)`
-    }else if( badgeLicense == 'Apache') {
-        projectInfo.license = `![Apache License](https://img.shields.io/badge/license-Apache-blue)`
-    }else if( badgeLicense == 'Apache 2') {
-        projectInfo.license = `![Apache 2 License](https://img.shields.io/badge/license-Apache2-blue)`
-    }else if( badgeLicense == 'GPL') {
-        projectInfo.license = `![GPL License](https://img.shields.io/badge/license-GPL-blue)`
     }
 
-}
-createBadge()
+];
 
 
 // function to write README file

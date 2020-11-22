@@ -22,7 +22,7 @@ ${data.contributors}
 ## Tests:
 ${data.tests}
 ## Questions:
-If you have any question, Please contact me:${data.questions}
+If you have any question, Please contact me: ${data.questions}
 ## Licenses:
 ${data.licenses}
 
